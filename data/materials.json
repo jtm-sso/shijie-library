@@ -1,6 +1,32 @@
 {
   "materials": [
     {
+      "id": "m_1795234852198_892900",
+      "title": "__E2E_TEST_234848__",
+      "desc": "",
+      "school": "",
+      "grade": "",
+      "subject": "",
+      "type": "",
+      "fmt": "FILE",
+      "tags": [],
+      "price": 0,
+      "indexed": false,
+      "pages": 1,
+      "author": "test",
+      "fileId": "file_1795234849198_bf3553",
+      "fileName": "__E2E_TEST_234848__.txt",
+      "remoteUrl": "/api/shijie/file/files%2Ffile_1795234849198_bf3553___E2E_TEST_234848__.txt",
+      "storage": "github",
+      "status": "approved",
+      "submittedAt": 1795234852198,
+      "createdAt": 1795234852198,
+      "reviewedAt": 1795234854925,
+      "reviewNote": "",
+      "downloads": 0,
+      "favorites": 0
+    },
+    {
       "id": "m_1795231870277_58",
       "fmt": "PDF",
       "desc": "",
