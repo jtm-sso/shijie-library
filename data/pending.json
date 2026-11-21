@@ -1,28 +1,3 @@
 {
-  "pending": [
-    {
-      "id": "m_1795254671612_b8e610",
-      "title": "审核日志测试-将清理",
-      "desc": "",
-      "school": "",
-      "grade": "",
-      "subject": "",
-      "type": "",
-      "fmt": "FILE",
-      "tags": [],
-      "price": 0,
-      "indexed": false,
-      "pages": 1,
-      "author": "匿名",
-      "fileId": "",
-      "fileName": "",
-      "remoteUrl": "",
-      "storage": "local",
-      "status": "rejected",
-      "submittedAt": 1795254671612,
-      "createdAt": 1795254671612,
-      "rejectReason": "审计日志验证",
-      "rejectedAt": 1795254675141
-    }
-  ]
+  "pending": []
 }
