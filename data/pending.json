@@ -18,9 +18,11 @@
       "fileName": "",
       "remoteUrl": "",
       "storage": "local",
-      "status": "pending",
+      "status": "rejected",
       "submittedAt": 1795254671612,
-      "createdAt": 1795254671612
+      "createdAt": 1795254671612,
+      "rejectReason": "审计日志验证",
+      "rejectedAt": 1795254675141
     }
   ]
 }
