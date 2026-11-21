@@ -1,1 +1,26 @@
-{"pending": []}
+{
+  "pending": [
+    {
+      "id": "m_1795234699749_83ecd4",
+      "title": "__E2E_TEST_234696__",
+      "desc": "",
+      "school": "",
+      "grade": "",
+      "subject": "",
+      "type": "",
+      "fmt": "FILE",
+      "tags": [],
+      "price": 0,
+      "indexed": false,
+      "pages": 1,
+      "author": "test",
+      "fileId": "file_1795234696533_6dfee9",
+      "fileName": "__E2E_TEST_234696__.txt",
+      "remoteUrl": "/api/shijie/file/files%2Ffile_1795234696533_6dfee9___E2E_TEST_234696__.txt",
+      "storage": "github",
+      "status": "pending",
+      "submittedAt": 1795234699749,
+      "createdAt": 1795234699749
+    }
+  ]
+}
