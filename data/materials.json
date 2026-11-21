@@ -1,3 +1,117 @@
 {
-  "materials": []
+  "materials": [
+    {
+      "id": "m_1795231870277_58",
+      "fmt": "PDF",
+      "desc": "",
+      "tags": [
+        "难题"
+      ],
+      "type": "专项练习",
+      "grade": "初三",
+      "pages": 1,
+      "price": 0,
+      "title": "2026暑期新初三打卡",
+      "author": "我",
+      "fileId": "file_1795231867385_bcc841",
+      "school": "龙格",
+      "status": "approved",
+      "indexed": true,
+      "storage": "github",
+      "subject": "数学",
+      "fileName": "2026暑期新初三打卡.pdf",
+      "createdAt": 1795231867385,
+      "downloads": 0,
+      "favorites": 0,
+      "remoteUrl": "https://adc911cf7fd4022cb.app.workbuddy.host/api/shijie/file/files%2F2026暑期新初三打卡.pdf",
+      "reviewNote": "",
+      "reviewedAt": 1795234485392,
+      "submittedAt": 1795231867385
+    },
+    {
+      "id": "m_1795232091005_2a5",
+      "fmt": "PDF",
+      "desc": "",
+      "tags": [
+        "期中"
+      ],
+      "type": "试卷",
+      "grade": "初二",
+      "pages": 1,
+      "price": 0,
+      "title": "八年级(下)期中测试卷",
+      "author": "我",
+      "fileId": "file_1795232091005_28a569",
+      "school": "龙格",
+      "status": "approved",
+      "indexed": true,
+      "storage": "github",
+      "subject": "数学",
+      "fileName": "八年级_下_期中测试卷.pdf",
+      "createdAt": 1795232091005,
+      "downloads": 0,
+      "favorites": 0,
+      "remoteUrl": "https://adc911cf7fd4022cb.app.workbuddy.host/api/shijie/file/files%2F八年级_下_期中测试卷.pdf",
+      "reviewNote": "",
+      "reviewedAt": 1795234485392,
+      "submittedAt": 1795232091005
+    },
+    {
+      "id": "m_1795232126415_b10",
+      "fmt": "PDF",
+      "desc": "",
+      "tags": [
+        "期末"
+      ],
+      "type": "试卷",
+      "grade": "初二",
+      "pages": 1,
+      "price": 0,
+      "title": "八年级第二学期期末试卷",
+      "author": "我",
+      "fileId": "file_1795232126415_b10ba3",
+      "school": "龙格",
+      "status": "approved",
+      "indexed": true,
+      "storage": "github",
+      "subject": "数学",
+      "fileName": "八年级第二学期期末试卷_1_.pdf",
+      "createdAt": 1795232126415,
+      "downloads": 0,
+      "favorites": 0,
+      "remoteUrl": "https://adc911cf7fd4022cb.app.workbuddy.host/api/shijie/file/files%2F八年级第二学期期末试卷_1_.pdf",
+      "reviewNote": "",
+      "reviewedAt": 1795234485392,
+      "submittedAt": 1795232126415
+    },
+    {
+      "id": "m_1795232204596_509",
+      "fmt": "PDF",
+      "desc": "",
+      "tags": [
+        "作文",
+        "期末"
+      ],
+      "type": "复习资料",
+      "grade": "初二",
+      "pages": 1,
+      "price": 0,
+      "title": "英语期末复习作文范文八下",
+      "author": "我",
+      "fileId": "file_1795232204596_509d76",
+      "school": "龙格",
+      "status": "approved",
+      "indexed": true,
+      "storage": "github",
+      "subject": "英语",
+      "fileName": "英语期末复习作文范文.pdf",
+      "createdAt": 1795232204596,
+      "downloads": 0,
+      "favorites": 0,
+      "remoteUrl": "https://adc911cf7fd4022cb.app.workbuddy.host/api/shijie/file/files%2F英语期末复习作文范文.pdf",
+      "reviewNote": "",
+      "reviewedAt": 1795234485392,
+      "submittedAt": 1795232204596
+    }
+  ]
 }
